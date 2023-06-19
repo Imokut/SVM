@@ -97,6 +97,6 @@ def extract_zip(filepath:str):
         print('Failed')
         
 if __name__=="__main__":
-    kaggle_username = "josephngotachilo"
-    kaggle_key = "cbc282983c1363ecfbf2fd98ce9fac62"
+    kaggle_username = "FILL KAGGLE USERNAME"
+    kaggle_key = "FILL KAGGLE KEY"
     make_kaggle_json(kaggle_username, kaggle_key)
