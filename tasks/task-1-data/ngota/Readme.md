@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imokut/SVM/blob/0548ad1ae9615a63426b7a71f95115c998bf9427/tasks/task-1-data/ngota/Employee%20attrition.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imokut/SVM/blob/main/tasks/task-1-data/ngota/Employee attrition.ipynb)
